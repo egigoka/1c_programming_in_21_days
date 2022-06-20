@@ -1,63 +1,63 @@
 day 1 theory - done
 day 1 hw - 1 done, 2 done, 3 done
-day 1 hw solution - done
+day 1 hw check - done
 day 2 theory - done
 day 2 hw - done
-day 2 hw solution - done
+day 2 hw check - done
 day 3 theory - done
 day 3 hw - done
-day 3 hw solution - done
+day 3 hw check - done
 day 4 theory - done
 day 4 hw - done
-day 4 hw solution - done
+day 4 hw check - done
 day 5 theory - done
 day 5 hw - done
-day 5 hw solution - done
+day 5 hw check - done
 day 6 theory - done
 day 6 hw - done
-day 6 hw solution - done
+day 6 hw check - done
 day 7 theory - done
 day 7 hw - done
-day 7 hw solution - done
+day 7 hw check - done
 day 8 theory - done
 day 8 hw - done
-day 8 hw solution - done
+day 8 hw check - done
 day 9 theory - done
 day 9 hw - done
-day 9 hw solution - done
+day 9 hw check - done
 day 10 theory - done
 day 10 hw - done
-day 10 hw solution - done
+day 10 hw check - done
 day 11 theory - done
 day 11 hw - done
-day 11 hw solution - done
+day 11 hw check - done
 day 12 theory - 
 day 12 hw - 
-day 12 hw solution - 
+day 12 hw check - 
 day 13 theory - 
 day 13 hw - 
-day 13 hw solution - 
+day 13 hw check - 
 day 14 theory - 
 day 14 hw - 
-day 14 hw solution - 
+day 14 hw check - 
 day 15 theory - 
 day 15 hw - 
-day 15 hw solution - 
+day 15 hw check - 
 day 16 theory - 
 day 16 hw - 
-day 16 hw solution - 
+day 16 hw check - 
 day 17 theory - 
 day 17 hw - 
-day 17 hw solution - 
+day 17 hw check - 
 day 18 theory - 
 day 18 hw - 
-day 18 hw solution - 
+day 18 hw check - 
 day 19 theory - 
 day 19 hw - 
-day 19 hw solution - 
+day 19 hw check - 
 day 20 theory - 
 day 20 hw - 
-day 20 hw solution - 
+day 20 hw check - 
 day 21 theory - 
 day 21 hw - 
-day 21 hw solution - 
+day 21 hw check - 
