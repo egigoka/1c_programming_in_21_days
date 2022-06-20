@@ -33,4 +33,5 @@ ebd0a796-1bc3-4ebd-b6cf-94fbe8da4de7
 {5,bf42c971-2616-48de-972f-05494a374cee,"Документ.ПоступлениеТоваров",7},
 {5,dfe2d19a-c849-4440-acde-6cc8b4a26aac,"РегистрСведений.ЦеныНоменклатуры",8},
 {4,"_$Data$_.Unpost",13},
-{4,"_$Transaction$_.Rollback",14}
+{4,"_$Transaction$_.Rollback",14},
+{4,"_$PerformError$_",15}
